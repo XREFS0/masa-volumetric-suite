@@ -1,4 +1,4 @@
-# MASA Volumetric Suite
+﻿# MASA Volumetric Suite
 
 A fluid mechanics and dimensional volume conversion tool providing unit translation across Metric and Imperial volume standards.
 
@@ -10,6 +10,10 @@ The codebase follows modular software engineering patterns and OOP structure, de
 - **Defensive Engineering**: Comprehensive validation guards protect against malformed inputs and runtime exceptions.
 - **Modern Design Tokens**: Designed with a high-contrast dark aesthetic adhering to modern developer tooling visual standards.
 
+
+## Preview
+
+![Application Interface](screenshots/app_interface.png)
 ## Features
 
 - Comprehensive dimensional unit catalog covering Liters, Milliliters, Cubic Meters, Gallons, Cups, and Fluid Ounces.
@@ -38,11 +42,12 @@ python "Complete Volume Convert in Python/index.py"
 
 ```
 .
-├── Complete Volume Convert in Python
-├── LICENSE             # MIT License
-└── README.md           # Developer documentation
+â”œâ”€â”€ Complete Volume Convert in Python
+â”œâ”€â”€ LICENSE             # MIT License
+â””â”€â”€ README.md           # Developer documentation
 ```
 
 ## License
 
 This project is licensed under the terms of the MIT License. Refer to the `LICENSE` file for details.
+
